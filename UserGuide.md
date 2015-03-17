@@ -7,7 +7,7 @@ unzip -x dex2jar-version.zip -d /home/panxiaobo
  windows C:\dex2jar-version\d2j-dex2jar.bat someApk.apk
  ```
 * use a decompiler to view the source.
- * jd-gui
- * JAD
+ * [jd-gui](http://jd.benow.ca/)
+ * [JAD](http://www.varaneckas.com/jad)
 
 that's it
